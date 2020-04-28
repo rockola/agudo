@@ -1,0 +1,1212 @@
+EESchema Schematic File Version 5
+EELAYER 34 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 2250 7450
+Connection ~ 2250 7350
+Connection ~ 1675 6325
+Connection ~ 925  2525
+Connection ~ 1700 2525
+Connection ~ 2025 2725
+Connection ~ 2700 2625
+Connection ~ 3450 2625
+Connection ~ 2700 1800
+Connection ~ 3525 1800
+Connection ~ 4225 2525
+Connection ~ 4950 1800
+Connection ~ 5675 2425
+Connection ~ 6125 2425
+Connection ~ 6575 2425
+Connection ~ 3450 3000
+Connection ~ 2775 3000
+Connection ~ 4250 3025
+Connection ~ 5000 3025
+Connection ~ 5000 2525
+Connection ~ 3450 3675
+Connection ~ 4000 3675
+Connection ~ 3150 3350
+Connection ~ 5000 3675
+Connection ~ 4000 4050
+Connection ~ 4650 4050
+Connection ~ 4650 3375
+Connection ~ 4225 1800
+Connection ~ 6300 4525
+Connection ~ 6300 4125
+Connection ~ 5850 4525
+Connection ~ 6300 3550
+Connection ~ 6975 3650
+Connection ~ 6975 4125
+Connection ~ 2525 3675
+Connection ~ 2025 3675
+Connection ~ 1700 3675
+Connection ~ 1450 6375
+Connection ~ 6975 4650
+Wire Wire Line
+	675  7450 1075 7450
+Wire Wire Line
+	925  2525 850  2525
+Wire Wire Line
+	925  2525 1000 2525
+Wire Wire Line
+	925  2600 925  2525
+Wire Wire Line
+	925  2900 925  2950
+Wire Wire Line
+	1050 6375 1050 6325
+Wire Wire Line
+	1100 6375 1050 6375
+Wire Wire Line
+	1250 3600 1250 3675
+Wire Wire Line
+	1250 3675 1325 3675
+Wire Wire Line
+	1300 2525 1350 2525
+Wire Wire Line
+	1450 6375 1400 6375
+Wire Wire Line
+	1450 6375 1450 6450
+Wire Wire Line
+	1450 6375 1675 6375
+Wire Wire Line
+	1450 6750 1450 6800
+Wire Wire Line
+	1625 3675 1700 3675
+Wire Wire Line
+	1650 2525 1700 2525
+Wire Wire Line
+	1675 6325 1675 6375
+Wire Wire Line
+	1700 2525 1700 2775
+Wire Wire Line
+	1700 2525 2075 2525
+Wire Wire Line
+	1700 3075 1700 3675
+Wire Wire Line
+	1700 3675 1700 3775
+Wire Wire Line
+	1700 3675 2025 3675
+Wire Wire Line
+	1700 4075 1700 4125
+Wire Wire Line
+	2025 1800 2025 2725
+Wire Wire Line
+	2025 2725 2075 2725
+Wire Wire Line
+	2025 2775 2025 2725
+Wire Wire Line
+	2025 3075 2025 3675
+Wire Wire Line
+	2025 3675 2525 3675
+Wire Wire Line
+	2150 7350 2250 7350
+Wire Wire Line
+	2150 7450 2250 7450
+Wire Wire Line
+	2200 1800 2025 1800
+Wire Wire Line
+	2275 2300 2275 2325
+Wire Wire Line
+	2275 2925 2275 2975
+Wire Wire Line
+	2500 1800 2700 1800
+Wire Wire Line
+	2525 3000 2775 3000
+Wire Wire Line
+	2525 3175 2525 3000
+Wire Wire Line
+	2525 3475 2525 3675
+Wire Wire Line
+	2525 3675 3450 3675
+Wire Wire Line
+	2675 2625 2700 2625
+Wire Wire Line
+	2700 1475 2700 1800
+Wire Wire Line
+	2700 1800 2700 2625
+Wire Wire Line
+	2700 1800 2950 1800
+Wire Wire Line
+	2700 2625 2825 2625
+Wire Wire Line
+	2775 3000 2825 3000
+Wire Wire Line
+	2775 3350 2775 3000
+Wire Wire Line
+	2825 3350 2775 3350
+Wire Wire Line
+	2950 1475 2700 1475
+Wire Wire Line
+	3125 2625 3450 2625
+Wire Wire Line
+	3125 3000 3450 3000
+Wire Wire Line
+	3125 3350 3150 3350
+Wire Wire Line
+	3150 3700 3150 3350
+Wire Wire Line
+	3150 4050 3150 4000
+Wire Wire Line
+	3150 4050 4000 4050
+Wire Wire Line
+	3250 1475 6125 1475
+Wire Wire Line
+	3250 1800 3525 1800
+Wire Wire Line
+	3450 2625 3450 3000
+Wire Wire Line
+	3450 2625 3600 2625
+Wire Wire Line
+	3450 3000 3450 3150
+Wire Wire Line
+	3450 3675 3450 3550
+Wire Wire Line
+	3525 1800 3750 1800
+Wire Wire Line
+	3525 2425 3525 1800
+Wire Wire Line
+	3600 2425 3525 2425
+Wire Wire Line
+	3600 7450 3700 7450
+Wire Wire Line
+	4000 3025 4250 3025
+Wire Wire Line
+	4000 3200 4000 3025
+Wire Wire Line
+	4000 3500 4000 3675
+Wire Wire Line
+	4000 3675 3450 3675
+Wire Wire Line
+	4000 3675 4000 3725
+Wire Wire Line
+	4000 4050 4000 4025
+Wire Wire Line
+	4000 4050 4650 4050
+Wire Wire Line
+	4000 7450 4100 7450
+Wire Wire Line
+	4050 1800 4225 1800
+Wire Wire Line
+	4200 2525 4225 2525
+Wire Wire Line
+	4225 1800 4225 2525
+Wire Wire Line
+	4225 1800 4450 1800
+Wire Wire Line
+	4225 2525 4300 2525
+Wire Wire Line
+	4250 3025 4300 3025
+Wire Wire Line
+	4250 3375 4250 3025
+Wire Wire Line
+	4300 3375 4250 3375
+Wire Wire Line
+	4475 7375 4475 7450
+Wire Wire Line
+	4475 7450 4400 7450
+Wire Wire Line
+	4600 2525 5000 2525
+Wire Wire Line
+	4600 3025 5000 3025
+Wire Wire Line
+	4600 3375 4650 3375
+Wire Wire Line
+	4650 3375 4650 3700
+Wire Wire Line
+	4650 3375 4700 3375
+Wire Wire Line
+	4650 4000 4650 4050
+Wire Wire Line
+	4650 4050 4850 4050
+Wire Wire Line
+	4650 4525 4650 4050
+Wire Wire Line
+	4750 1800 4950 1800
+Wire Wire Line
+	4850 4525 4650 4525
+Wire Wire Line
+	4950 1800 5150 1800
+Wire Wire Line
+	4950 2325 4950 1800
+Wire Wire Line
+	5000 2525 5000 3025
+Wire Wire Line
+	5000 2525 5050 2525
+Wire Wire Line
+	5000 3025 5000 3175
+Wire Wire Line
+	5000 3575 5000 3675
+Wire Wire Line
+	5000 3675 4000 3675
+Wire Wire Line
+	5000 3675 5000 3650
+Wire Wire Line
+	5050 2325 4950 2325
+Wire Wire Line
+	5150 4050 5225 4050
+Wire Wire Line
+	5150 4525 5850 4525
+Wire Wire Line
+	5250 2100 5250 2125
+Wire Wire Line
+	5250 2725 5250 2775
+Wire Wire Line
+	5375 3675 5000 3675
+Wire Wire Line
+	5375 3675 5375 3900
+Wire Wire Line
+	5375 4200 5375 4250
+Wire Wire Line
+	5450 1800 5675 1800
+Wire Wire Line
+	5650 2425 5675 2425
+Wire Wire Line
+	5675 1800 5675 2425
+Wire Wire Line
+	5675 2425 5750 2425
+Wire Wire Line
+	5850 3550 5850 4525
+Wire Wire Line
+	5850 4525 5925 4525
+Wire Wire Line
+	5850 4825 5850 4525
+Wire Wire Line
+	5925 4075 5925 4125
+Wire Wire Line
+	5925 4125 5950 4125
+Wire Wire Line
+	5950 3550 5850 3550
+Wire Wire Line
+	6050 2425 6125 2425
+Wire Wire Line
+	6125 1475 6125 2425
+Wire Wire Line
+	6125 2425 6200 2425
+Wire Wire Line
+	6250 3550 6300 3550
+Wire Wire Line
+	6250 4125 6300 4125
+Wire Wire Line
+	6300 3350 6300 3550
+Wire Wire Line
+	6300 3550 6325 3550
+Wire Wire Line
+	6300 3750 6300 4125
+Wire Wire Line
+	6300 4125 6300 4175
+Wire Wire Line
+	6300 4125 6350 4125
+Wire Wire Line
+	6300 4475 6300 4525
+Wire Wire Line
+	6300 4525 6225 4525
+Wire Wire Line
+	6300 4575 6300 4525
+Wire Wire Line
+	6325 3750 6300 3750
+Wire Wire Line
+	6525 3350 6300 3350
+Wire Wire Line
+	6575 2425 6500 2425
+Wire Wire Line
+	6575 2425 6850 2425
+Wire Wire Line
+	6575 2500 6575 2425
+Wire Wire Line
+	6575 2800 6575 2825
+Wire Wire Line
+	6650 4125 6975 4125
+Wire Wire Line
+	6825 4825 5850 4825
+Wire Wire Line
+	6925 3650 6975 3650
+Wire Wire Line
+	6975 3350 6825 3350
+Wire Wire Line
+	6975 3650 6975 3350
+Wire Wire Line
+	6975 4125 6975 3650
+Wire Wire Line
+	6975 4125 6975 4175
+Wire Wire Line
+	6975 4475 6975 4650
+Wire Wire Line
+	6975 4650 6975 4675
+Wire Wire Line
+	7125 4825 7175 4825
+Wire Wire Line
+	7175 4650 6975 4650
+Wire Wire Line
+	7175 4825 7175 4650
+Text Notes 7750 6775 2    50   ~ 0
+Phase 45
+Text Notes 8775 7500 2    79   ~ 0
+Agudo
+Text Notes 8850 7650 2    50   ~ 0
+2020-04-14
+Text Notes 10825 7625 2    50   ~ 0
+v0.1
+Text GLabel 850  2525 0    50   Input ~ 0
+IN
+Text GLabel 1075 7350 0    50   Input ~ 0
+IN
+Text GLabel 1075 7550 0    50   Input ~ 0
+LED-
+Text GLabel 1075 7650 0    50   Output ~ 0
+OUT
+Text GLabel 3600 7450 0    50   Input ~ 0
+LED-
+Text GLabel 6850 2425 2    50   Output ~ 0
+OUT
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 5E951794
+P 1675 6325
+F 0 "#FLG01" H 1675 6400 50  0001 C CNN
+F 1 "PWR_FLAG" V 1675 6450 50  0000 L CNN
+F 2 "" H 1675 6325 50  0001 C CNN
+F 3 "~" H 1675 6325 50  0001 C CNN
+	1    1675 6325
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 5E89CE6E
+P 2150 7350
+F 0 "#FLG02" H 2150 7425 50  0001 C CNN
+F 1 "PWR_FLAG" V 2150 7500 50  0000 L CNN
+F 2 "" H 2150 7350 50  0001 C CNN
+F 3 "~" H 2150 7350 50  0001 C CNN
+	1    2150 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG03
+U 1 1 5E89E416
+P 2150 7450
+F 0 "#FLG03" H 2150 7525 50  0001 C CNN
+F 1 "PWR_FLAG" V 2150 7600 50  0000 L CNN
+F 2 "" H 2150 7450 50  0001 C CNN
+F 3 "~" H 2150 7450 50  0001 C CNN
+	1    2150 7450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L rockola_kicad_symbols:Vin #PWR04
+U 1 1 5E94D1FE
+P 1050 6325
+F 0 "#PWR04" H 1050 6175 50  0001 C CNN
+F 1 "Vin" H 1065 6495 50  0000 C CNN
+F 2 "" H 1050 6325 50  0001 C CNN
+F 3 "" H 1050 6325 50  0001 C CNN
+	1    1050 6325
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR05
+U 1 1 5EAA7593
+P 1250 3600
+F 0 "#PWR05" H 1250 3450 50  0001 C CNN
+F 1 "+9V" H 1265 3773 50  0000 C CNN
+F 2 "" H 1250 3600 50  0001 C CNN
+F 3 "" H 1250 3600 50  0001 C CNN
+	1    1250 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR07
+U 1 1 5E9500A3
+P 1675 6325
+F 0 "#PWR07" H 1675 6175 50  0001 C CNN
+F 1 "+9V" H 1690 6495 50  0000 C CNN
+F 2 "" H 1675 6325 50  0001 C CNN
+F 3 "" H 1675 6325 50  0001 C CNN
+	1    1675 6325
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:Vin #PWR09
+U 1 1 5E94C753
+P 2250 7350
+F 0 "#PWR09" H 2250 7200 50  0001 C CNN
+F 1 "Vin" H 2265 7520 50  0000 C CNN
+F 2 "" H 2250 7350 50  0001 C CNN
+F 3 "" H 2250 7350 50  0001 C CNN
+	1    2250 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR010
+U 1 1 5E9FDAA6
+P 2275 2300
+F 0 "#PWR010" H 2275 2150 50  0001 C CNN
+F 1 "+9V" H 2290 2473 50  0000 C CNN
+F 2 "" H 2275 2300 50  0001 C CNN
+F 3 "" H 2275 2300 50  0001 C CNN
+	1    2275 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:Vin #PWR0102
+U 1 1 5EB20041
+P 2575 6925
+F 0 "#PWR0102" H 2575 6775 50  0001 C CNN
+F 1 "Vin" H 2590 7095 50  0000 C CNN
+F 2 "" H 2575 6925 50  0001 C CNN
+F 3 "" H 2575 6925 50  0001 C CNN
+	1    2575 6925
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:Vin #PWR012
+U 1 1 5EAFEC35
+P 4475 7375
+F 0 "#PWR012" H 4475 7225 50  0001 C CNN
+F 1 "Vin" H 4490 7548 50  0000 C CNN
+F 2 "" H 4475 7375 50  0001 C CNN
+F 3 "" H 4475 7375 50  0001 C CNN
+	1    4475 7375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR013
+U 1 1 5EA192C1
+P 5250 2100
+F 0 "#PWR013" H 5250 1950 50  0001 C CNN
+F 1 "+9V" H 5265 2273 50  0000 C CNN
+F 2 "" H 5250 2100 50  0001 C CNN
+F 3 "" H 5250 2100 50  0001 C CNN
+	1    5250 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR016
+U 1 1 5EA8C79D
+P 5925 4075
+F 0 "#PWR016" H 5925 3925 50  0001 C CNN
+F 1 "+9V" H 5950 4225 50  0000 C CNN
+F 2 "" H 5925 4075 50  0001 C CNN
+F 3 "" H 5925 4075 50  0001 C CNN
+	1    5925 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5E6E322C
+P 675 7450
+F 0 "#PWR01" H 675 7200 50  0001 C CNN
+F 1 "GND" H 680 7277 50  0000 C CNN
+F 2 "" H 675 7450 50  0001 C CNN
+F 3 "" H 675 7450 50  0001 C CNN
+	1    675  7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5E9FC1DE
+P 925 2950
+F 0 "#PWR02" H 925 2700 50  0001 C CNN
+F 1 "GND" H 930 2777 50  0000 C CNN
+F 2 "" H 925 2950 50  0001 C CNN
+F 3 "" H 925 2950 50  0001 C CNN
+	1    925  2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5EAA8C9E
+P 1450 6800
+F 0 "#PWR06" H 1450 6550 50  0001 C CNN
+F 1 "GND" H 1455 6627 50  0000 C CNN
+F 2 "" H 1450 6800 50  0001 C CNN
+F 3 "" H 1450 6800 50  0001 C CNN
+	1    1450 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5EACCDB0
+P 1700 4125
+F 0 "#PWR08" H 1700 3875 50  0001 C CNN
+F 1 "GND" H 1705 3952 50  0000 C CNN
+F 2 "" H 1700 4125 50  0001 C CNN
+F 3 "" H 1700 4125 50  0001 C CNN
+	1    1700 4125
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5E6E4750
+P 2250 7450
+F 0 "#PWR03" H 2250 7200 50  0001 C CNN
+F 1 "GND" H 2255 7277 50  0000 C CNN
+F 2 "" H 2250 7450 50  0001 C CNN
+F 3 "" H 2250 7450 50  0001 C CNN
+	1    2250 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR011
+U 1 1 5E9FCC94
+P 2275 2975
+F 0 "#PWR011" H 2275 2725 50  0001 C CNN
+F 1 "GND" H 2280 2802 50  0000 C CNN
+F 2 "" H 2275 2975 50  0001 C CNN
+F 3 "" H 2275 2975 50  0001 C CNN
+	1    2275 2975
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5EB2000A
+P 2575 7025
+F 0 "#PWR0101" H 2575 6775 50  0001 C CNN
+F 1 "GND" H 2580 6852 50  0000 C CNN
+F 2 "" H 2575 7025 50  0001 C CNN
+F 3 "" H 2575 7025 50  0001 C CNN
+	1    2575 7025
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR014
+U 1 1 5EA1F59B
+P 5250 2775
+F 0 "#PWR014" H 5250 2525 50  0001 C CNN
+F 1 "GND" H 5255 2602 50  0000 C CNN
+F 2 "" H 5250 2775 50  0001 C CNN
+F 3 "" H 5250 2775 50  0001 C CNN
+	1    5250 2775
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 5EA4EE8B
+P 5375 4250
+F 0 "#PWR015" H 5375 4000 50  0001 C CNN
+F 1 "GND" H 5380 4077 50  0000 C CNN
+F 2 "" H 5375 4250 50  0001 C CNN
+F 3 "" H 5375 4250 50  0001 C CNN
+	1    5375 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR017
+U 1 1 5EA893A9
+P 6300 4575
+F 0 "#PWR017" H 6300 4325 50  0001 C CNN
+F 1 "GND" H 6305 4402 50  0000 C CNN
+F 2 "" H 6300 4575 50  0001 C CNN
+F 3 "" H 6300 4575 50  0001 C CNN
+	1    6300 4575
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR018
+U 1 1 5EA24D69
+P 6575 2825
+F 0 "#PWR018" H 6575 2575 50  0001 C CNN
+F 1 "GND" H 6580 2652 50  0000 C CNN
+F 2 "" H 6575 2825 50  0001 C CNN
+F 3 "" H 6575 2825 50  0001 C CNN
+	1    6575 2825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5E9F6C23
+P 925 2750
+F 0 "R1" H 995 2795 50  0000 L CNN
+F 1 "1M5" H 995 2705 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 855 2750 50  0001 C CNN
+F 3 "~" H 925 2750 50  0001 C CNN
+	1    925  2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5EAA6AA1
+P 1475 3675
+F 0 "R2" V 1681 3675 50  0000 C CNN
+F 1 "10k" V 1590 3675 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 1405 3675 50  0001 C CNN
+F 3 "~" H 1475 3675 50  0001 C CNN
+	1    1475 3675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5E9F74E0
+P 1500 2525
+F 0 "R3" V 1706 2525 50  0000 C CNN
+F 1 "10k" V 1615 2525 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 1430 2525 50  0001 C CNN
+F 3 "~" H 1500 2525 50  0001 C CNN
+	1    1500 2525
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5E9F9DFB
+P 1700 2925
+F 0 "R4" H 1770 2970 50  0000 L CNN
+F 1 "470k" H 1770 2880 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 1630 2925 50  0001 C CNN
+F 3 "~" H 1700 2925 50  0001 C CNN
+	1    1700 2925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5E9F938A
+P 2025 2925
+F 0 "R5" H 2095 2970 50  0000 L CNN
+F 1 "20k" H 2095 2880 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 1955 2925 50  0001 C CNN
+F 3 "~" H 2025 2925 50  0001 C CNN
+	1    2025 2925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5EA07782
+P 2350 1800
+F 0 "R6" V 2556 1800 50  0000 C CNN
+F 1 "10k" V 2465 1800 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 2280 1800 50  0001 C CNN
+F 3 "~" H 2350 1800 50  0001 C CNN
+	1    2350 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 5EA28006
+P 2525 3325
+F 0 "R7" H 2595 3370 50  0000 L CNN
+F 1 "10k" H 2595 3280 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 2455 3325 50  0001 C CNN
+F 3 "~" H 2525 3325 50  0001 C CNN
+	1    2525 3325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5EA07FBA
+P 2975 3000
+F 0 "R8" V 3181 3000 50  0000 C CNN
+F 1 "10k" V 3090 3000 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 2905 3000 50  0001 C CNN
+F 3 "~" H 2975 3000 50  0001 C CNN
+	1    2975 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5EA2240E
+P 3100 1475
+F 0 "R9" V 3306 1475 50  0000 C CNN
+F 1 "10k" V 3215 1475 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3030 1475 50  0001 C CNN
+F 3 "~" H 3100 1475 50  0001 C CNN
+	1    3100 1475
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 5EA0A4FB
+P 3100 1800
+F 0 "R10" V 3306 1800 50  0000 C CNN
+F 1 "10k" V 3215 1800 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3030 1800 50  0001 C CNN
+F 3 "~" H 3100 1800 50  0001 C CNN
+	1    3100 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 5EA5651F
+P 3150 3850
+F 0 "R11" H 3080 3805 50  0000 R CNN
+F 1 "470k" H 3080 3895 50  0000 R CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3080 3850 50  0001 C CNN
+F 3 "~" H 3150 3850 50  0001 C CNN
+	1    3150 3850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 5EAFF96E
+P 3850 7450
+F 0 "R14" V 4056 7450 50  0000 C CNN
+F 1 "6k8" V 3965 7450 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3780 7450 50  0001 C CNN
+F 3 "~" H 3850 7450 50  0001 C CNN
+	1    3850 7450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 5EA0AD4D
+P 3900 1800
+F 0 "R12" V 4106 1800 50  0000 C CNN
+F 1 "10k" V 4015 1800 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3830 1800 50  0001 C CNN
+F 3 "~" H 3900 1800 50  0001 C CNN
+	1    3900 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 5EA294DD
+P 4000 3350
+F 0 "R13" H 4070 3395 50  0000 L CNN
+F 1 "10k" H 4070 3305 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 3930 3350 50  0001 C CNN
+F 3 "~" H 4000 3350 50  0001 C CNN
+	1    4000 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5EA29511
+P 4450 3025
+F 0 "R15" V 4656 3025 50  0000 C CNN
+F 1 "10k" V 4565 3025 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 4380 3025 50  0001 C CNN
+F 3 "~" H 4450 3025 50  0001 C CNN
+	1    4450 3025
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5EA0C5C5
+P 4600 1800
+F 0 "R16" V 4806 1800 50  0000 C CNN
+F 1 "10k" V 4715 1800 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 4530 1800 50  0001 C CNN
+F 3 "~" H 4600 1800 50  0001 C CNN
+	1    4600 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 5EA5F717
+P 4650 3850
+F 0 "R17" H 4720 3895 50  0000 L CNN
+F 1 "470k" H 4720 3805 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 4580 3850 50  0001 C CNN
+F 3 "~" H 4650 3850 50  0001 C CNN
+	1    4650 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 5EA533E2
+P 5000 4050
+F 0 "R18" V 5206 4050 50  0000 C CNN
+F 1 "1M" V 5115 4050 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 4930 4050 50  0001 C CNN
+F 3 "~" H 5000 4050 50  0001 C CNN
+	1    5000 4050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 5EA80C0C
+P 5000 4525
+F 0 "R19" V 5206 4525 50  0000 C CNN
+F 1 "3M9" V 5115 4525 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 4930 4525 50  0001 C CNN
+F 3 "~" H 5000 4525 50  0001 C CNN
+	1    5000 4525
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R20
+U 1 1 5EA1CE6B
+P 5300 1800
+F 0 "R20" V 5506 1800 50  0000 C CNN
+F 1 "10k" V 5415 1800 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 5230 1800 50  0001 C CNN
+F 3 "~" H 5300 1800 50  0001 C CNN
+	1    5300 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R21
+U 1 1 5EA1E6A4
+P 5900 2425
+F 0 "R21" V 6106 2425 50  0000 C CNN
+F 1 "10k" V 6015 2425 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 5830 2425 50  0001 C CNN
+F 3 "~" H 5900 2425 50  0001 C CNN
+	1    5900 2425
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R22
+U 1 1 5EA96C79
+P 6100 3550
+F 0 "R22" V 6306 3550 50  0000 C CNN
+F 1 "150k" V 6215 3550 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6030 3550 50  0001 C CNN
+F 3 "~" H 6100 3550 50  0001 C CNN
+	1    6100 3550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R23
+U 1 1 5EA89A27
+P 6100 4125
+F 0 "R23" V 6306 4125 50  0000 C CNN
+F 1 "150k" V 6215 4125 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6030 4125 50  0001 C CNN
+F 3 "~" H 6100 4125 50  0001 C CNN
+	1    6100 4125
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R24
+U 1 1 5EA88FFB
+P 6300 4325
+F 0 "R24" H 6370 4370 50  0000 L CNN
+F 1 "150k" H 6370 4280 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6230 4325 50  0001 C CNN
+F 3 "~" H 6300 4325 50  0001 C CNN
+	1    6300 4325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R25
+U 1 1 5EA89F74
+P 6500 4125
+F 0 "R25" V 6706 4125 50  0000 C CNN
+F 1 "150k" V 6615 4125 50  0000 C CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6430 4125 50  0001 C CNN
+F 3 "~" H 6500 4125 50  0001 C CNN
+	1    6500 4125
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R26
+U 1 1 5EA2424A
+P 6575 2650
+F 0 "R26" H 6645 2695 50  0000 L CNN
+F 1 "150k" H 6645 2605 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6505 2650 50  0001 C CNN
+F 3 "~" H 6575 2650 50  0001 C CNN
+	1    6575 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R27
+U 1 1 5EAA0315
+P 6975 4325
+F 0 "R27" H 7045 4370 50  0000 L CNN
+F 1 "7k5" H 7045 4280 50  0000 L CNN
+F 2 "rockola_kicad_footprints:R_0.125W_5mm" V 6905 4325 50  0001 C CNN
+F 3 "~" H 6975 4325 50  0001 C CNN
+	1    6975 4325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N5817 D1
+U 1 1 5E94FAD4
+P 1250 6375
+F 0 "D1" H 1250 6159 50  0000 C CNN
+F 1 "1N5817" H 1250 6250 50  0000 C CNN
+F 2 "diodes:DO41-3" H 1250 6200 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88525/1n5817.pdf" H 1250 6375 50  0001 C CNN
+	1    1250 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Zener D2
+U 1 1 5EACC826
+P 1700 3925
+F 0 "D2" V 1655 4005 50  0000 L CNN
+F 1 "5V1" V 1745 4005 50  0000 L CNN
+F 2 "diodes:DO41-3" H 1700 3925 50  0001 C CNN
+F 3 "~" H 1700 3925 50  0001 C CNN
+	1    1700 3925
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 5EB03325
+P 4250 7450
+F 0 "D3" H 4243 7666 50  0000 C CNN
+F 1 "LED" H 4243 7575 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 4250 7450 50  0001 C CNN
+F 3 "~" H 4250 7450 50  0001 C CNN
+	1    4250 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U1
+U 3 1 5E9F873A
+P 2375 2625
+F 0 "U1" H 2375 2991 50  0001 C CNN
+F 1 "TL072" H 2550 2450 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 2375 2625 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2375 2625 50  0001 C CNN
+	3    2375 2625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U2
+U 3 1 5EA0E473
+P 5350 2425
+F 0 "U2" H 5163 2380 50  0001 R CNN
+F 1 "TL072" H 5163 2470 50  0001 R CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 5350 2425 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5350 2425 50  0001 C CNN
+	3    5350 2425
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:Power_Connector J2
+U 1 1 5E6E3BD4
+P 2450 7350
+F 0 "J2" H 2530 7342 50  0000 L CNN
+F 1 "Power_Connector" H 2530 7251 50  0000 L CNN
+F 2 "rockola_kicad_footprints:Power_Header_2pin" H 2450 7350 50  0001 C CNN
+F 3 "~" H 2450 7350 50  0001 C CNN
+	1    2450 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:Power_Connector J3
+U 1 1 5EB20032
+P 2775 6925
+F 0 "J3" H 2855 6917 50  0000 L CNN
+F 1 "Power_TOP" H 2855 6826 50  0000 L CNN
+F 2 "rockola_kicad_footprints:Power_Header_2pin_TOP" H 2775 6925 50  0001 C CNN
+F 3 "~" H 2775 6925 50  0001 C CNN
+	1    2775 6925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5E9F70F2
+P 1150 2525
+F 0 "C1" V 1401 2525 50  0000 C CNN
+F 1 "10n" V 1310 2525 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 1188 2375 50  0001 C CNN
+F 3 "~" H 1150 2525 50  0001 C CNN
+	1    1150 2525
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:CP C2
+U 1 1 5EAA7D84
+P 1450 6600
+F 0 "C2" H 1568 6645 50  0000 L CNN
+F 1 "10u" H 1568 6555 50  0000 L CNN
+F 2 "rockola_kicad_footprints:CP_D5.0_P2.50" H 1488 6450 50  0001 C CNN
+F 3 "~" H 1450 6600 50  0001 C CNN
+	1    1450 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5EA0308B
+P 2975 2625
+F 0 "C3" V 3226 2625 50  0000 C CNN
+F 1 "47n" V 3135 2625 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 3013 2475 50  0001 C CNN
+F 3 "~" H 2975 2625 50  0001 C CNN
+	1    2975 2625
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5EA083AA
+P 2975 3350
+F 0 "C4" V 3226 3350 50  0000 C CNN
+F 1 "10n" V 3135 3350 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 3013 3200 50  0001 C CNN
+F 3 "~" H 2975 3350 50  0001 C CNN
+	1    2975 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 5EA53EB3
+P 4000 3875
+F 0 "C5" H 4115 3920 50  0000 L CNN
+F 1 "47n" H 4115 3830 50  0000 L CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 4038 3725 50  0001 C CNN
+F 3 "~" H 4000 3875 50  0001 C CNN
+	1    4000 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 5EA0BD3E
+P 4450 2525
+F 0 "C6" V 4701 2525 50  0000 C CNN
+F 1 "47n" V 4610 2525 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 4488 2375 50  0001 C CNN
+F 3 "~" H 4450 2525 50  0001 C CNN
+	1    4450 2525
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C7
+U 1 1 5EA294EF
+P 4450 3375
+F 0 "C7" V 4701 3375 50  0000 C CNN
+F 1 "10n" V 4610 3375 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 4488 3225 50  0001 C CNN
+F 3 "~" H 4450 3375 50  0001 C CNN
+	1    4450 3375
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:CP C8
+U 1 1 5EA82965
+P 6075 4525
+F 0 "C8" V 6329 4525 50  0000 C CNN
+F 1 "10u" V 6238 4525 50  0000 C CNN
+F 2 "rockola_kicad_footprints:CP_D5.0_P2.50" H 6113 4375 50  0001 C CNN
+F 3 "~" H 6075 4525 50  0001 C CNN
+	1    6075 4525
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C9
+U 1 1 5EA22CDD
+P 6350 2425
+F 0 "C9" V 6601 2425 50  0000 C CNN
+F 1 "47n" V 6510 2425 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 6388 2275 50  0001 C CNN
+F 3 "~" H 6350 2425 50  0001 C CNN
+	1    6350 2425
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C10
+U 1 1 5EA9B4FF
+P 6675 3350
+F 0 "C10" V 6926 3350 50  0000 C CNN
+F 1 "10n" V 6835 3350 50  0000 C CNN
+F 2 "rockola_kicad_footprints:C_Box_7.2_2.5" H 6713 3200 50  0001 C CNN
+F 3 "~" H 6675 3350 50  0001 C CNN
+	1    6675 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_POT_TRIM RV1
+U 1 1 5EA4E51B
+P 5375 4050
+F 0 "RV1" H 5305 4005 50  0000 R CNN
+F 1 "Bias 250k" H 5305 4095 50  0000 R CNN
+F 2 "potentiometers:TRIM1" H 5375 4050 50  0001 C CNN
+F 3 "~" H 5375 4050 50  0001 C CNN
+	1    5375 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_POT RV2
+U 1 1 5EAA119D
+P 6975 4825
+F 0 "RV2" V 6860 4825 50  0000 C CNN
+F 1 "Speed C500k" V 6769 4825 50  0000 C CNN
+F 2 "rockola_kicad_footprints:16mm_BoardMount" H 6975 4825 50  0001 C CNN
+F 3 "~" H 6975 4825 50  0001 C CNN
+	1    6975 4825
+	0    1    -1   0   
+$EndComp
+$Comp
+L rockola_kicad_symbols:Stomp_Connector J1
+U 1 1 5E6E2052
+P 1275 7450
+F 0 "J1" H 1355 7442 50  0000 L CNN
+F 1 "Stomp_Connector" H 1355 7351 50  0000 L CNN
+F 2 "rockola_kicad_footprints:Stomp_4pin" H 1275 7450 50  0001 C CNN
+F 3 "~" H 1275 7450 50  0001 C CNN
+	1    1275 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:MMBF5457 Q1
+U 1 1 5EA0899E
+P 3350 3350
+F 0 "Q1" H 3541 3395 50  0000 L CNN
+F 1 "MMBF5457" H 3541 3305 50  0000 L CNN
+F 2 "rockola_kicad_footprints:SOT-23_NJFET_DSG" H 3550 3450 50  0001 C CNN
+F 3 "~" H 3350 3350 50  0001 C CNN
+	1    3350 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L rockola_kicad_symbols:MMBF5457 Q2
+U 1 1 5EA294FE
+P 4900 3375
+F 0 "Q2" H 5091 3420 50  0000 L CNN
+F 1 "MMBF5457" H 5091 3330 50  0000 L CNN
+F 2 "rockola_kicad_footprints:SOT-23_NJFET_DSG" H 5100 3475 50  0001 C CNN
+F 3 "~" H 4900 3375 50  0001 C CNN
+	1    4900 3375
+	1    0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U1
+U 1 1 5E9F7CC2
+P 2375 2625
+F 0 "U1" H 2575 2525 50  0000 C CNN
+F 1 "TL072" H 2375 2900 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 2375 2625 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2375 2625 50  0001 C CNN
+	1    2375 2625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U1
+U 2 1 5E9F80F3
+P 3900 2525
+F 0 "U1" H 4050 2625 50  0000 C CNN
+F 1 "TL072" H 4000 2700 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 3900 2525 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3900 2525 50  0001 C CNN
+	2    3900 2525
+	1    0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U2
+U 1 1 5EA0DB1B
+P 5350 2425
+F 0 "U2" H 5525 2525 50  0000 C CNN
+F 1 "TL072" H 5500 2600 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 5350 2425 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5350 2425 50  0001 C CNN
+	1    5350 2425
+	1    0    0    1   
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U2
+U 2 1 5EA0E06C
+P 6625 3650
+F 0 "U2" H 6775 3750 50  0000 C CNN
+F 1 "TL072" H 6750 3825 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" H 6625 3650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6625 3650 50  0001 C CNN
+	2    6625 3650
+	1    0    0    1   
+$EndComp
+$EndSCHEMATC
