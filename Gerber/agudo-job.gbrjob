@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-1452-gb67f18b39)"
+      "Version": "(5.99.0-7307-g71ab42e60a)"
     },
-    "CreationDate": "2020-04-28T12:12:10+03:00"
+    "CreationDate": "2020-12-03T10:10:10+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 28.929,
-      "Y": 54.075
+      "X": 28.879,
+      "Y": 36.55
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,54 +27,54 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.381,
+      "MinLineWidth": 0.35,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "agudo-F_Cu.gbr",
+      "Path": "agudo-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-B_Cu.gbr",
+      "Path": "agudo-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-F_Paste.gbr",
+      "Path": "agudo-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-B_Paste.gbr",
+      "Path": "agudo-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-F_SilkS.gbr",
+      "Path": "agudo-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-B_SilkS.gbr",
+      "Path": "agudo-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-F_Mask.gbr",
+      "Path": "agudo-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "agudo-B_Mask.gbr",
+      "Path": "agudo-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "agudo-Edge_Cuts.gbr",
+      "Path": "agudo-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
