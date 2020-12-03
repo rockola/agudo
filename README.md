@@ -1,12 +1,12 @@
 # agudo
 Phase 45
 
-1590A compatible (board size 28.9mmx54.1mm), 1/8W resistors, SMD JFETs
+* v0.1: initial version, 1/8W resistors, SMD JFETs, verified
+* v0.2: vibe switch, mostly SMD
 
-* v0.1: initial version
-
-![Front](https://raw.githubusercontent.com/rockola/agudo/master/images/agudo-front.png)
-![Back](https://raw.githubusercontent.com/rockola/agudo/master/images/agudo-back.png)
+![Front](https://raw.githubusercontent.com/rockola/agudo/master/images/agudo-v0.2-front.png)
+![Back](https://raw.githubusercontent.com/rockola/agudo/master/images/agudo-v0.2-back.png)
+![Schematic](https://raw.githubusercontent.com/rockola/agudo/master/images/agudo-v0.2-schematic.png)
 
 ## LICENSE
 
