@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-1452-gb67f18b39)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-04-28T12:12:10+03:00"
+    "CreationDate": "2022-01-11T21:26:04+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-F_SilkS.gbr",
+      "Path": "agudo-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "agudo-B_SilkS.gbr",
+      "Path": "agudo-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
